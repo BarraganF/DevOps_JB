@@ -2,10 +2,9 @@
 # 🗿​ DevOps
  
  
- ✅ Este es mi proyecto para subir con DevOps
+ ✅ Este es el mejor Proyecto que existe en esta litoral 💪💪
 
 
-
-# 🚀​ Javier Barragán Reales
+# 💪 Luis Acuna Racero
 
 
