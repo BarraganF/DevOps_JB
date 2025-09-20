@@ -1,11 +1,8 @@
 
-# 🗿​ DevOps
+# 🗿​ Este es el README de la RAMA Javier
  
  
- ✅ Este es mi proyecto para subir con DevOps
+ ✅ Ey loco que pasa vale mia
 
-
-
-# 🚀​ Javier Barragán Reales
 
 
