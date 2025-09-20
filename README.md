@@ -1,10 +1,15 @@
 
-# 🗿​ DevOps
+# 🗿​ Aplicacion
  
  
- ✅ Este es el mejor Proyecto que existe en esta litoral 💪💪
+ ✅ CALCULADORA
 
 
-# 💪 Luis Acuna Racero
 
+# 🚀​
 
+Luis Acuña
+Luis Lopez  
+Andrea Buelvas
+Carlos Villa
+Javier Barragan
