@@ -1,11 +1,15 @@
 
-# 🗿​ DevOps
+# 🗿​ Aplicacion
  
  
- ✅ Este es mi proyecto para subir con DevOps
+ ✅ TASKS
 
 
 
-# 🚀​ Javier Barragán Reales
+# 🚀​
 
-
+Luis Acuña
+Luis Lopez  
+Andrea Buelvas
+Carlos Villa
+Javier Barragan
